@@ -80,3 +80,111 @@ Log check at Sun Jun 14 05:37:01 UTC 2026
 Log check at Sun Jun 14 05:37:01 UTC 2026
 ------------------------
 ------------------------
+Log check at Sun Jun 14 05:38:01 UTC 2026
+Log check at Sun Jun 14 05:38:01 UTC 2026
+------------------------
+------------------------
+Log check at Sun Jun 14 05:39:01 UTC 2026
+Log check at Sun Jun 14 05:39:01 UTC 2026
+------------------------
+------------------------
+Log check at Sun Jun 14 05:40:01 UTC 2026
+------------------------
+Log check at Sun Jun 14 05:40:01 UTC 2026
+------------------------
+Log check at Sun Jun 14 05:41:01 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+Log check at Sun Jun 14 05:41:01 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+Log check at Sun Jun 14 05:42:01 UTC 2026
+Log check at Sun Jun 14 05:42:01 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+Log check at Sun Jun 14 05:43:01 UTC 2026
+Log check at Sun Jun 14 05:43:01 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+------------------------
+Log check at Sun Jun 14 05:44:01 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+Log check at Sun Jun 14 05:44:01 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+Log check at Sun Jun 14 05:45:01 UTC 2026
+Log check at Sun Jun 14 05:45:01 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+Log check at Sun Jun 14 05:46:01 UTC 2026
+Log check at Sun Jun 14 05:46:01 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+Log check at Sun Jun 14 05:47:01 UTC 2026
+Log check at Sun Jun 14 05:47:01 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+Log check at Sun Jun 14 05:48:01 UTC 2026
+Log check at Sun Jun 14 05:48:01 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+Log check at Sun Jun 14 05:49:01 UTC 2026
+Log check at Sun Jun 14 05:49:01 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+------------------------
+Log check at Sun Jun 14 05:50:02 UTC 2026
+Log check at Sun Jun 14 05:50:02 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+Log check at Sun Jun 14 05:51:01 UTC 2026
+Log check at Sun Jun 14 05:51:01 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
+Log check at Sun Jun 14 05:52:01 UTC 2026
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+Log check at Sun Jun 14 05:52:01 UTC 2026
+------------------------
+2026-06-14T05:40:12.736843+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR EC2RoleProvider Failed to connect to Systems Manager with SSM role credentials. error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+2026-06-14T05:40:12.837284+00:00 ip-172-31-32-186 amazon-ssm-agent.amazon-ssm-agent[999]: 2026-06-14 05:40:12.6666 ERROR [CredentialRefresher] Retrieve credentials produced error: no valid credentials could be retrieved for ec2 identity. Default Host Management Err: error calling RequestManagedInstanceRoleToken: AccessDeniedException: Systems Manager's instance management role is not configured for account: 104104283146
+------------------------
